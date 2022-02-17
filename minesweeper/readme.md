@@ -27,7 +27,7 @@ You can see an example of a mini try here:
 ✔️ Ability to double-click a cell if the user believes they pinned all the mines next to it to open the surrounding cells;  
 ✔️ Game over when the user left clicks a mine;  
 ✔️ Game over when the user double clicks a cell and they had wrongly pinned the mines next to it;  
-✔️ Win after the user either pins all the mines of left clicks all the non-mine cells;  
+✔️ Win after the user either pins all the mines or left clicks all the non-mine cells;  
 ✔️ At game over shows a red cross on the wrong pinned mines and an explosion on the mine clicked;  
 ✔️ Disables table clicks at the end of the game;  
 ✔️ 'Current Time' timer, that starts with the first table click;  
@@ -36,6 +36,6 @@ You can see an example of a mini try here:
 ✔️ Play Again button that reloads the game;  
 ✔️ Responsive to window resize: allows horizontal/vertical play.
 
-*Big shoutout to my friend [Alexandre Oliveira](https://bitbucket.org/AlexandreOliveira96/) for always so happily and intensely testing all my stuff*  ♡ 
+*Big shoutout to my friend [Alexandre Oliveira](https://github.com/alexandreoliveiradev) for always so happily and intensely testing all my stuff*  ♡ 
 
 ### Thank you so much for the time 🙋
